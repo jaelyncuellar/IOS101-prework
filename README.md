@@ -6,7 +6,7 @@ Submitted by: **Jaelyn Cuellar**
 
 **X** is an app that... [TODO] 
 
-Time spent: **2** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## Required Features
 
